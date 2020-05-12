@@ -1,0 +1,25 @@
+{
+  "name": "node-crud-app",
+  "version": "1.0.0",
+  "description": "a simple app in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosinezekiel/node_project.git"
+  },
+  "author": "tosin ezekiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosinezekiel/node_project/issues"
+  },
+  "homepage": "https://github.com/tosinezekiel/node_project#readme",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
